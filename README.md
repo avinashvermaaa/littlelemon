@@ -22,3 +22,14 @@ DELETE FROM restaurant_booking WHERE first_name = 'Avinash';
 ```
 ```
 .exit (to exit sql)
+```
+
+```
+netstat -ano | findstr :8000
+
+        output :- 
+        TCP    127.0.0.1:8000     0.0.0.0:0     LISTENING       12345
+
+taskkill /PID 12345 /F
+Replace 12345 with your actual PID.
+```
