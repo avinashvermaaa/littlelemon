@@ -1,5 +1,25 @@
-# Screenshot
-![App Screenshot](assets\Screenshot_171.png)
+# Project Name
+
+This is a description of the project.
+
+## Screenshots
+
+### Screenshot 171
+![Homepage](assets/Screenshot_171.png)
+
+### Screenshot 172
+![Menu, Book Table, Open hours](assets/Screenshot_172.png)
+
+### Screenshot 173
+![Menu items](assets/Screenshot_173.png)
+
+### Screenshot 174
+![Reservation page](assets/Screenshot_174.png)
+
+### Screenshot 176
+![Reservation record in database](assets/Screenshot_176.png)
+
+
 # run server 
 * cd to dir. --> on terminal run --> 
 ``` 
