@@ -1,3 +1,5 @@
+# Screenshot
+![App Screenshot](assets\Screenshot_171.png)
 # run server 
 * cd to dir. --> on terminal run --> 
 ``` 
