@@ -33,3 +33,15 @@ netstat -ano | findstr :8000
 taskkill /PID 12345 /F
 Replace 12345 with your actual PID.
 ```
+
+```
+use requirements.txt
+pip install -r requirements.txt
+
+in terminal :-
+venv\bin\activate
+pip show django 
+python manage.py runserver
+sqlite3 db.sqlite3
+deactivate
+```
