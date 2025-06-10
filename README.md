@@ -1,7 +1,6 @@
 # LittleLemon - Restaurant Table Booking Web App
-**LittleLemon** is a modern web application designed for customers to effortlessly book tables at a restaurant. It provides a simple and intuitive interface for users to check real-time availability, view the menu, and reserve tables—all within a few clicks.
 
-Whether you're planning a casual lunch or a special evening out, LittleLemon ensures a smooth and hassle-free booking experience.
+**LittleLemon** is a modern web application designed for customers to effortlessly book tables at a restaurant. It provides a simple and intuitive interface for users to check real-time availability, view the menu, and reserve tables—all within a few clicks.
 
 ## Key Features
 
@@ -10,9 +9,21 @@ Whether you're planning a casual lunch or a special evening out, LittleLemon ens
 - **Menu Display**: Customers can browse the full restaurant menu with pricing and descriptions.
 - **Responsive Design**: Fully optimized for both desktop and mobile devices.
 - **Order History**: Keeps track of past reservations for easy reference.
-- **User Authentication**: Users can sign up, sign in, and track their bookings for future visits.
-- **Search and Filters**: Search for specific dishes on the menu, and apply filters for cuisine type or dietary restrictions.
 
+### Explanation of the Technologies Used Section:
+
+1. **Frontend:**
+   - **HTML5**: It's the core markup language for structuring content.
+   - **CSS3**: Provides the styling, layout, and responsiveness for the web pages.
+
+2. **Backend:**
+   - **Python**: It's the programming language used to handle the business logic of the app.
+   - **Django**: A high-level Python web framework that simplifies web development by providing built-in features like routing, authentication, and database management.
+
+3. **Database:**
+   - **SQLite**: An embedded database used to store application data. It's light and works well for small to medium-sized projects.
+
+---
 
 ## Screenshots
 
@@ -75,7 +86,10 @@ pip install -r requirements.txt
 in terminal :-
 venv\bin\activate
 pip show django 
+pip install -r requirements.txt
+python manage.py migrate
 python manage.py runserver
+
 sqlite3 db.sqlite3
 deactivate
 ```
