@@ -1,22 +1,34 @@
-# Project Name
+# LittleLemon - Restaurant Table Booking Web App
+**LittleLemon** is a modern web application designed for customers to effortlessly book tables at a restaurant. It provides a simple and intuitive interface for users to check real-time availability, view the menu, and reserve tables—all within a few clicks.
 
-This is a description of the project.
+Whether you're planning a casual lunch or a special evening out, LittleLemon ensures a smooth and hassle-free booking experience.
+
+## Key Features
+
+- **Simple Table Booking**: Users can select a date, time, and number of guests to easily reserve a table.
+- **Real-Time Availability**: The app displays available tables in real-time, so customers only book when a table is free.
+- **Menu Display**: Customers can browse the full restaurant menu with pricing and descriptions.
+- **Responsive Design**: Fully optimized for both desktop and mobile devices.
+- **Order History**: Keeps track of past reservations for easy reference.
+- **User Authentication**: Users can sign up, sign in, and track their bookings for future visits.
+- **Search and Filters**: Search for specific dishes on the menu, and apply filters for cuisine type or dietary restrictions.
+
 
 ## Screenshots
 
-### Screenshot 171
+### Homepage
 ![Homepage](assets/Screenshot_171.png)
 
-### Screenshot 172
+### Menu, Book Table, Open hours
 ![Menu, Book Table, Open hours](assets/Screenshot_172.png)
 
-### Screenshot 173
+### Menu items
 ![Menu items](assets/Screenshot_173.png)
 
-### Screenshot 174
+### Reservation page
 ![Reservation page](assets/Screenshot_174.png)
 
-### Screenshot 176
+### Reservation record in database
 ![Reservation record in database](assets/Screenshot_176.png)
 
 
